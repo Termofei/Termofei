@@ -18,7 +18,8 @@ Currently working on projects that bring together everything I’ve learned in s
 
 ### 🚀 Featured Projects
 
-- 🧩 **FilmBlog**  
+- 🧩 **FilmBlog**
+- https://github.com/Termofei/FilmBlog
   Full Django web app for viewing, raing, commenting, and discussing the current films in cinema.  
 
 ---
