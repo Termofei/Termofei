@@ -9,7 +9,7 @@ Currently working on projects that bring together everything I’ve learned in s
 
 ### 🧰 Tech Stack
 
-**Languages:** Python, Kotlin, JavaScript, Java, SQL  
+**Languages:** Python, Kotlin, JavaScript, SQL  
 **Frameworks & Tools:** Django, Flask, Android Studio, Docker, Jenkins, Postman  
 **Databases:** PostgreSQL, SQLite  
 **Other Skills:** Linux, Git, GitHub Actions, REST APIs, ORM, Bootstrap  
