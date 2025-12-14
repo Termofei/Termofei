@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Milen Andonov  
 
-💻 **Full-Stack Developer | Python & Django | DevOps | Android (Kotlin)**  
+💻 **Full-Stack Developer | Python & Django | DevOps | Android (Kotlin) | Javascript | Typescript**  
 
 I’m a developer passionate about building reliable, scalable systems — from backend APIs and web apps to Android interfaces and CI/CD pipelines.  
 Currently working on projects that bring together everything I’ve learned in software development, databases, and automation.  
