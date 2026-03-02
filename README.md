@@ -25,7 +25,7 @@ Currently working on projects that bring together everything I’ve learned in s
 ---
 
 ### 🧠 What I’m Learning
-- Containers and Cloud
+- Typescript, React
 
 ---
 
